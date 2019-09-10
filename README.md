@@ -1,5 +1,5 @@
-# Vid2Vid-OpenDS
-An Initial Release for AutoUI'19 Submission
+# Attempt-Vid2Vid-OpenDS
+Final Release for AutomotiveUI'19 WIP "First Attempt to Build Realistic Driving Scenes using Video-to-video Synthesis in OpenDS Framework"
 
 ## Motivation
 
